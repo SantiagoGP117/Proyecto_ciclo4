@@ -1,0 +1,4 @@
+Soy Bryan garcía. Vivo en Santiago de Cali.
+Soy ingeniero electrónico e ingeniero electricista. 
+Actualmente estoy trabajando con procesamiento de imágenes y señales,
+aplicado a inspección de máquinas eléctricas.
