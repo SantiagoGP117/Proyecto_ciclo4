@@ -1,9 +1,15 @@
+import Link from 'next/link'
 import React from 'react'
 
 const index = () => {
     return (
         <div>
-            pagina de index usuarios        
+            <div>
+                Pagina de admin usuarios
+            </div>  
+            <Link href='/'>
+                <a>Ir al home</a>
+            </Link>      
         </div>
     )
 }
